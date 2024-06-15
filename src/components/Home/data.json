@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "image": "assets/1_stu48X1_GoUeHkxIl2py5A.png",
+      "title": "PokeAPI",
+      "description": "When the user selects a pokemon from the dropdown, the application should make a second API call using the 'url' returned in the first API call to fetch the pokemon's details, including its abilities, and display them on the page. Once the details are fetched, they should be cached and the application should not make another API call for that pokemon again."
+    },
+    {
+      "id": 2,
+      "image": "assets/ogimage.jpg",
+      "title": "Lizard",
+      "description": "Displays a list of products in ascending order based on price. The application should also include a dropdown to allow the user to change the sorting of the products between ascending and descending. When the user changes the sorting order, the application should update the query parameter value and fetch the products with the new sorting order."
+    },
+    {
+      "id": 3,
+      "image": "assets/fakestore-api.jpg",
+      "title": "Lizard",
+      "description": "Displays a list of products in the cart. For each product in the cart, the application should make an API call to fetch the product details using the ID returned in the cart API and display the product title, price, and image. API returns details for a single product. You will need to make an API call for each product in the cart to fetch the product details."
+    }
+  ]
+  
